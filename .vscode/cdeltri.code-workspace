@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"deltri.h": "c",
+			"nrutil.h": "c",
+			"misc.h": "c",
+			"stack.h": "c",
+			"delaun.h": "c",
+			"qsorti.h": "c",
+			"stdio.h": "c",
+			"triloc.h": "c",
+			"bsort.h": "c"
+		}
+	}
+}
